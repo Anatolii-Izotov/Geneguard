@@ -1,0 +1,12 @@
+  spring:
+    security:
+      oauth2:
+        resourceserver:
+          jwt:
+            issuer-uri: http://localhost:8082/realms/genguard
+
+  server:
+    port: 9091
+  logging:
+    level:
+      sql: info
