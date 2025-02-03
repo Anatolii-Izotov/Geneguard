@@ -35,3 +35,17 @@ out/
 
 ### VS Code ###
 .vscode/
+
+test/
+upload/
+snpEff/data/
+geneguard/snpeff/
+snpeff/scripts/
+snpEff/examples/
+snpEff/exec/
+snpEff/
+
+
+
+.DS_Store.DS_Store
+.DS_Store

@@ -1,4 +1,4 @@
 rootProject.name = "geneguard"
-include("auth-service")
 include("api-gateway")
+include("data-processing")
 include("database-service")
